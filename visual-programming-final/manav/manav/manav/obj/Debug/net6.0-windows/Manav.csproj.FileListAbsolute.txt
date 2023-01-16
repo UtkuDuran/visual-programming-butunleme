@@ -1,0 +1,128 @@
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\Manav.exe
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\Manav.deps.json
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\Manav.runtimeconfig.json
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\Manav.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\Manav.pdb
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasiyergiris.resources
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfo.cs
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.dll
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\refint\Manav.dll
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.pdb
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.genruntimeconfig.cache
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\ref\Manav.dll
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.anaekran.resources
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasalogin.resources
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\asus\source\repos\Manav\Manav\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CopyComplete
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.musteri.resources
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunekle.resources
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunguncelle.resources
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunsil.resources
+C:\Users\asus\source\repos\Manav\Manav\obj\Debug\net6.0-windows\Manav.calisan.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.exe
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.deps.json
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.runtimeconfig.json
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.pdb
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.anaekran.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.calisan.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasalogin.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasiyergiris.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.musteri.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunekle.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunguncelle.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunsil.resources
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfo.cs
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CopyComplete
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\refint\Manav.dll
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.pdb
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.genruntimeconfig.cache
+C:\Users\asus\Desktop\manav\Manav\Manav\obj\Debug\net6.0-windows\ref\Manav.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\Manav.exe
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\Manav.deps.json
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\Manav.runtimeconfig.json
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\Manav.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\Manav.pdb
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.anaekran.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.calisan.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasalogin.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasiyergiris.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.musteri.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunekle.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunguncelle.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunsil.resources
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfo.cs
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CopyComplete
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\refint\Manav.dll
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.pdb
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\Manav.genruntimeconfig.cache
+C:\Users\asus\Desktop\Ders\Gösel Programlama2\Manav\Manav\obj\Debug\net6.0-windows\ref\Manav.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.exe
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.deps.json
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.runtimeconfig.json
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\Manav.pdb
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.AssemblyReference.cache
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.anaekran.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.calisan.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasalogin.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.kasiyergiris.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.musteri.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunekle.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunguncelle.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.urunsil.resources
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfoInputs.cache
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.AssemblyInfo.cs
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.csproj.CopyComplete
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\refint\Manav.dll
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.pdb
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\Manav.genruntimeconfig.cache
+C:\Users\utku\Desktop\visual-programming-final-main\manav\Manav\Manav\obj\Debug\net6.0-windows\ref\Manav.dll
